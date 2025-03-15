@@ -1,0 +1,1 @@
+A fully automated Tumblr Ask Sender using Python and Playwright. It logs into multiple Tumblr accounts, distributes ask users among them, extracts ask content from an existing ask post using clipboard automation, and sends bulk asks with batch processing while handling login pop-ups.
